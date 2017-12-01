@@ -1,0 +1,9 @@
+-- Odradjen layout za lg i xs screens --
+
+Ostatak projekta:
+
+1. small devices(tablet, mini-laptop, notebook)
+	768px - 991px
+
+2. medium devices(greater laptop)
+	992px - 1199px
